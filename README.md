@@ -1,6 +1,6 @@
 # Tetris en JavaScript
 
-![Tetris Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Tetris_logo.svg/1280px-Tetris_logo.svg.png)
+![Tetris Logo](https://tetris.wiki/images/thumb/a/ae/The_Tetris_Company_logo_2019.png/300px-The_Tetris_Company_logo_2019.png)
 
 ## Descripción
 Tetris es un clásico juego de puzzle donde los jugadores encajan bloques de diferentes formas que caen desde la parte superior de la pantalla. El objetivo es completar líneas horizontales para eliminarlas y ganar puntos.
