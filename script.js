@@ -122,7 +122,7 @@ function placePiece() {
     for (let row = 0; row < currentPiece.length; row++) {
         for (let col = 0; col < currentPiece[row].length; col++) {
             if (currentPiece[row][col] !== 0) {
-                board[currentPosition.y + row][currentPosition.x + col] = 1; // Cambia el valor según sea necesario
+                board[currentPosition.y + row][currentPosition.x + col] = 1; 
             }
         }
     }
